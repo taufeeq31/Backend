@@ -1,0 +1,16 @@
+{
+  "name": "chai_backend",
+  "version": "1.0.0",
+  "description": "A backend for video-streaming sites",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "taufeeq",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
